@@ -1,4 +1,6 @@
 ## Deno 学习笔记
+[![deno-study](https://img.shields.io/badge/deno-study-brightgreen)](https://github.com/liruifengv/Deno-study)
+
 
 Deno 笔记，学习Deno的系列文章，持续更新中
 
