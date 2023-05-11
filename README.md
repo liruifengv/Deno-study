@@ -7,7 +7,9 @@ Deno 笔记，学习Deno的系列文章，持续更新中
 ### 目录
 
 1. [使用 Deno  创建 HTTP 服务](./docs/使用Deno创建HTTP服务.md)
-2. 未完待续
+2. [Node/Deno 之父 ry: 我们为什么给 Deno 添加了 package.json 支持](https://sayhub.me/blog/deno-package-json-support/)
+3. [打造你自己的 JavaScript 运行时](https://sayhub.me/blog/roll-your-own-javascript-runtime/)
+4. [使用 Express、TypeScript 和 Deno 构建 REST API](https://sayhub.me/blog/build-api-express-typescript/)
 
 ### 相关链接
 
